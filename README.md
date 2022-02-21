@@ -60,3 +60,8 @@ Supported contract's libraries are:
 
  ERC677Token:
 
+ https://explorer.latam-blockchain.com/address/0xA873a1CD35545d7121E438864E847dBDA0a4296c/transactions
+
+ https://testnet.bscscan.com/address/0xaa25ACde44DA41e9188128da510226075EB29272
+
+

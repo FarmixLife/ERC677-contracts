@@ -31,7 +31,8 @@
   },
   "homepage": "https://github.com/FarmixLife/ERC677-contracts#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.4.2"
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.3"
   },
   "devDependencies": {
     "@openzeppelin/test-helpers": "^0.5.4",
